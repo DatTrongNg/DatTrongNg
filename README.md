@@ -34,7 +34,7 @@ I am a student at University Paris Saclay, specializing in Master's in Artificia
 #### cGAN in image segmentation:
 A cGAN model generating segmented images from input Cityscape dataset images 
 
-<img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482" width="650" height="200">
+<img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482" width="600" height="200">
 
 [Details](https://github.com/DatTrongNg/cGAN_Segmentation/tree/main)
 
@@ -46,7 +46,7 @@ A cGAN model generating segmented images from input Cityscape dataset images
 #### Apply auto-endcoder on distance estimation in drone navigation:
 Integrate a distance estimation auto-encoder model into a drone control system, allowing for the estimation of the drone's location based on the depth information derived from its camera feed; therefore, having suitable coressponding action.
 
-![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/01bf7a75-e746-497b-bbf1-289a12fc134a)
+<img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/01bf7a75-e746-497b-bbf1-289a12fc134a" width="600" height="200">
 
 [Details](https://github.com/DatTrongNg/Tello_Swarm)
 
