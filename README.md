@@ -38,12 +38,22 @@ Integrate a distance estimation auto-encoder model into a drone control system, 
 
 ##### Stacks:
 - Python (NumPy, Pycharm,...)
-- Machine Learning (Auto Encoder, Reinforcement Learning)
+- Machine Learning (Auto Encoder, Reinforcement Learning, Pytorch)
 - Vicon system
 - Tello Drone (connect via wifi)
 
+### 3D Objects shape retrieval using view-based method
+A NN model for shape retrieval using view-based method.
+
+[Details](https://github.com/DatTrongNg/3D_Shape_Retrieval_View_Based)
+
+#### Stacks:
+- Python (NumPy, Jupiter, Gzip,...)
+- Machine Learning (Pythorch, Resnet18,...)
+- 3D modeling (trimesh, .ply)
+
 ###  VR Tower of Hanoi Game 🕹️
-A VR tower of Hanoi game runable on both VR environment (recommended) and laptop.
+A VR tower of Hanoi game using Three.js applied physics engine runable on both VR environment (recommended) and laptop.
 
 [Details](https://github.com/GRicciardi00/Tower-of-Hanoi-VR-Three.js/tree/main)
 
@@ -51,3 +61,4 @@ A VR tower of Hanoi game runable on both VR environment (recommended) and laptop
 - Frontend: React, Three.js, HTML, CSS
 - Backend: Node.js, AmmoPhysics (Addapt version of Bullet), Java
 - VR: Oculus
+
