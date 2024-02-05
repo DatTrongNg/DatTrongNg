@@ -35,7 +35,7 @@ I am a student at University Paris Saclay, specializing in Master's in Artificia
 A cGAN model generating segmented images from input Cityscape dataset images 
 ![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482)
 
-[Details]()
+[Details](https://github.com/DatTrongNg/cGAN_Segmentation/tree/main)
 
 ##### Stacks:
 - Python
