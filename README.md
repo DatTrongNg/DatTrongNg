@@ -47,7 +47,7 @@ A VR tower of Hanoi game runable on both VR environment (recommended) and laptop
 
 [Details](https://github.com/GRicciardi00/Tower-of-Hanoi-VR-Three.js/tree/main)
 
-Stacks:
+#### Stacks:
 - Frontend: React, Three.js, HTML, CSS
 - Backend: Node.js, AmmoPhysics (Addapt version of Bullet), Java
 - VR: Oculus
