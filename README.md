@@ -33,7 +33,8 @@ I am a student at University Paris Saclay, specializing in Master's in Artificia
 
 #### cGAN in image segmentation:
 A cGAN model generating segmented images from input Cityscape dataset images 
-![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482 | width=100)
+
+<img src="[https://your-image-url.type](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482)" width="100" height="50">
 
 [Details](https://github.com/DatTrongNg/cGAN_Segmentation/tree/main)
 
