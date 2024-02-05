@@ -59,8 +59,7 @@ Integrate a distance estimation auto-encoder model into a drone control system, 
 ### 3D Objects shape retrieval using view-based method:
 A NN model for shape retrieval using view-based method.
 
-![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/5f110020-aee5-4c12-b39a-d4eb17c39f0b)
-
+<img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/5f110020-aee5-4c12-b39a-d4eb17c39f0b" width="600" height="500">
 
 [Details](https://github.com/DatTrongNg/3D_Shape_Retrieval_View_Based)
 
