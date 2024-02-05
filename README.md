@@ -32,13 +32,15 @@ I am a student at University Paris Saclay, specializing in Master's in Artificia
 ### My projects
 
 #### cGAN in image segmentation:
-A cGAN model generating segmented images from input images. 
+A cGAN model generating segmented images from input Cityscape dataset images 
 ![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/d41af293-2bd7-4853-9947-0211ef48d482)
 
 [Details]()
 
 ##### Stacks:
-
+- Python
+- Pytorch
+- CNN, cGAN, Unet
 
 #### Apply auto-endcoder on distance estimation in drone navigation:
 Integrate a distance estimation auto-encoder model into a drone control system, allowing for the estimation of the drone's location based on the depth information derived from its camera feed; therefore, having suitable coressponding action.
