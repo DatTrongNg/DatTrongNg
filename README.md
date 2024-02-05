@@ -71,8 +71,7 @@ A NN model for shape retrieval using view-based method.
 ###  VR Tower of Hanoi Game 🕹️
 A VR tower of Hanoi game using Three.js applied physics engine runable on both VR environment (recommended) and laptop.
 
-![image](https://github.com/DatTrongNg/DatTrongNg/assets/87078249/7c13dea9-feed-43f0-8d94-20a9b8dce225)
-
+<img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/7c13dea9-feed-43f0-8d94-20a9b8dce225" width="600" height="300">
 
 [Details](https://github.com/GRicciardi00/Tower-of-Hanoi-VR-Three.js/tree/main)
 
