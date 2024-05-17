@@ -43,7 +43,7 @@ A cGAN model generating segmented images from input Cityscape dataset images
 - Pytorch
 - CNN, cGAN, Unet
 
-#### Apply auto-endcoder on distance estimation in drone navigation:
+#### Apply auto-encoder on distance estimation in drone navigation:
 Integrate a distance estimation auto-encoder model into a drone control system, allowing for the estimation of the drone's location based on the depth information derived from its camera feed; therefore, having suitable coressponding action.
 
 <img src="https://github.com/DatTrongNg/DatTrongNg/assets/87078249/01bf7a75-e746-497b-bbf1-289a12fc134a" width="600" height="200">
